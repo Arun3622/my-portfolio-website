@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Abel&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans+JP:wght@100..900&display=swap');
+.img {
+    display: flex;
+    justify-content: center;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.hello {
+    font-size: 100px;
+    margin-left: 50px;
+    outline: none;
+    border: 0px;
+    font-family: "ABeeZee", sans-serif;
+}
+
+.bit {
+    margin-left: 50px;
+    margin-top: -50px;
+    font-family: system-ui;
+}
+
+.skilled {
+    margin-left: 50px;
+    font-optical-sizing: auto;
+    font-weight: 50;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.circle1 {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: orange;
+}
+
+.circle2 {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: red;
+}
+
+.circle3 {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.resumetext {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: "ABeeZee", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Projectstext {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: "ABeeZee", sans-serif;
+    text-decoration: none;
+    color: black;
+}
+
+.Contacttext {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: "ABeeZee", sans-serif;
+    text-decoration: none;
+    color: black;
+}

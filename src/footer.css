@@ -1,0 +1,28 @@
+.footer {
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.phone {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.email {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.emailtext {
+    margin-top: -48px;
+    margin-left: 35px;
+}
+
+.by {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-right: 10px;
+}
+
+.instagramimg {
+    display: flex;
+    justify-content: space-evenly;
+}
